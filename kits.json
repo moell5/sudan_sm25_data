@@ -1,0 +1,92 @@
+[
+  {
+    "team_id": "alhilal",
+    "kit_home": "blue_white",
+    "kit_away": "white_blue"
+  },
+  {
+    "team_id": "almerrikh",
+    "kit_home": "red_white",
+    "kit_away": "white_red"
+  },
+  {
+    "team_id": "hay_al_wadi",
+    "kit_home": "green_white",
+    "kit_away": "white_green"
+  },
+  {
+    "team_id": "hay_al_arab",
+    "kit_home": "blue_yellow",
+    "kit_away": "yellow_blue"
+  },
+  {
+    "team_id": "haidoub_al_nahoud",
+    "kit_home": "black_white",
+    "kit_away": "white_black"
+  },
+  {
+    "team_id": "el_hilal_obeid",
+    "kit_home": "blue_yellow",
+    "kit_away": "yellow_blue"
+  },
+  {
+    "team_id": "alamal_atbara",
+    "kit_home": "yellow_black",
+    "kit_away": "black_yellow"
+  },
+  {
+    "team_id": "al_ahli_merowe",
+    "kit_home": "white_blue",
+    "kit_away": "blue_white"
+  },
+  {
+    "team_id": "mirghani_kassala",
+    "kit_home": "red_black",
+    "kit_away": "black_red"
+  },
+  {
+    "team_id": "hilal_al_sahil",
+    "kit_home": "blue_white",
+    "kit_away": "white_blue"
+  },
+  {
+    "team_id": "al_shorta",
+    "kit_home": "green_white",
+    "kit_away": "white_green"
+  },
+  {
+    "team_id": "al_ahly_shendi",
+    "kit_home": "red_black",
+    "kit_away": "black_red"
+  },
+  {
+    "team_id": "tuti_club",
+    "kit_home": "yellow_blue",
+    "kit_away": "blue_yellow"
+  },
+  {
+    "team_id": "al_ahli_khartoum",
+    "kit_home": "white_green",
+    "kit_away": "green_white"
+  },
+  {
+    "team_id": "rabita_kosti",
+    "kit_home": "red_white",
+    "kit_away": "white_red"
+  },
+  {
+    "team_id": "kober_khartoum",
+    "kit_home": "blue_black",
+    "kit_away": "black_blue"
+  },
+  {
+    "team_id": "al_ahli_madani",
+    "kit_home": "white_red",
+    "kit_away": "red_white"
+  },
+  {
+    "team_id": "falah_atbara",
+    "kit_home": "green_black",
+    "kit_away": "black_green"
+  }
+]
