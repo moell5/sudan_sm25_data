@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mohamed Abdelrahman",
+    "position": "ST",
+    "club": "al_hilal_omdurman",
+    "stats": [82, 78, 80]
+  },
+  {
+    "name": "Walid Hassan",
+    "position": "LW",
+    "club": "al_hilal_omdurman",
+    "stats": [75, 76, 74]
+  },
+  {
+    "name": "Ramadan Agab",
+    "position": "CM",
+    "club": "al_merrikh",
+    "stats": [78, 79, 77]
+  },
+  {
+    "name": "Bakhit Khamis",
+    "position": "CB",
+    "club": "al_merrikh",
+    "stats": [74, 73, 76]
+  },
+  {
+    "name": "Mohamed Babiker",
+    "position": "RW",
+    "club": "hay_al_wadi",
+    "stats":
