@@ -27,4 +27,90 @@
     "name": "Mohamed Babiker",
     "position": "RW",
     "club": "hay_al_wadi",
-    "stats":
+    "stats": [70, 69, 71]
+  },
+  {
+    "name": "Mohamed Musa",
+    "position": "ST",
+    "club": "hay_al_arab",
+    "stats": [68, 67, 70]
+  },
+  {
+    "name": "Yasir Mozamil",
+    "position": "CB",
+    "club": "el_hilal_obeid",
+    "stats": [73, 74, 72]
+  },
+  {
+    "name": "Mazin Mohamed",
+    "position": "GK",
+    "club": "alamal_atbara",
+    "stats": [72, 70, 71]
+  },
+  {
+    "name": "Salah Bilal",
+    "position": "CM",
+    "club": "al_ahli_merowe",
+    "stats": [70, 68, 69]
+  },
+  {
+    "name": "Mutwakil Mohamed",
+    "position": "RW",
+    "club": "mirghani_kassala",
+    "stats": [68, 66, 67]
+  },
+  {
+    "name": "Ahmed Adam",
+    "position": "LB",
+    "club": "hilal_al_sahil",
+    "stats": [72, 70, 69]
+  },
+  {
+    "name": "Abdelrahman Yousif",
+    "position": "CM",
+    "club": "al_shorta",
+    "stats": [69, 68, 70]
+  },
+  {
+    "name": "Omer Ibrahim",
+    "position": "ST",
+    "club": "al_ahly_shendi",
+    "stats": [75, 74, 73]
+  },
+  {
+    "name": "Hussein Ahmed",
+    "position": "GK",
+    "club": "tuti_club",
+    "stats": [71, 69, 68]
+  },
+  {
+    "name": "Ayman Saleh",
+    "position": "RM",
+    "club": "al_ahli_khartoum",
+    "stats": [70, 71, 70]
+  },
+  {
+    "name": "Musa Yagoub",
+    "position": "LB",
+    "club": "rabita_kosti",
+    "stats": [67, 65, 66]
+  },
+  {
+    "name": "Mohamed Juma",
+    "position": "ST",
+    "club": "kober_khartoum",
+    "stats": [69, 68, 70]
+  },
+  {
+    "name": "Nour Eldin",
+    "position": "CAM",
+    "club": "al_ahli_madani",
+    "stats": [71, 72, 70]
+  },
+  {
+    "name": "Salah Mohamed",
+    "position": "CB",
+    "club": "falah_atbara",
+    "stats": [68, 67, 69]
+  }
+]
