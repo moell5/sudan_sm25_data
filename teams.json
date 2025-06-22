@@ -1,0 +1,128 @@
+[
+  {
+    "id": "al_hilal_omdurman",
+    "name": "Al Hilal Omdurman",
+    "stadium": "Al Hilal Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Al-Hilal_Club_%28Omdurman%29_logo.png/190px-Al-Hilal_Club_%28Omdurman%29_logo.png",
+    "kits": ["blue_white"]
+  },
+  {
+    "id": "al_merrikh",
+    "name": "Al Merrikh",
+    "stadium": "Al Merrikh Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/head/10721.png?lm=1568217843",
+    "kits": ["red_yellow"]
+  },
+  {
+    "id": "hay_al_wadi",
+    "name": "Hay Al Wadi",
+    "stadium": "Al Wadi Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/head/58857.png?lm=1640794753",
+    "kits": ["yellow_black"]
+  },
+  {
+    "id": "hay_al_arab",
+    "name": "Hay Al Arab",
+    "stadium": "Port Sudan Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/b/ba/Hay_el-Arab_SC_%28logo%29.png",
+    "kits": ["blue_white"]
+  },
+  {
+    "id": "haidoub_al_nahoud",
+    "name": "Haidoub Al Nahoud",
+    "stadium": "Al Nahoud Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/head/104598.png?lm=1675456670",
+    "kits": ["orange_black"]
+  },
+  {
+    "id": "el_hilal_obeid",
+    "name": "El Hilal El Obeid",
+    "stadium": "El Obeid Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/0/0a/Al-Hilal_SC_%28Al-Ubayyid%29_Logo.png",
+    "kits": ["blue_white"]
+  },
+  {
+    "id": "alamal_atbara",
+    "name": "Alamal Atbara",
+    "stadium": "Atbara Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Alamal_SC_Atbara_logo.gif/180px-Alamal_SC_Atbara_logo.gif",
+    "kits": ["yellow_blue"]
+  },
+  {
+    "id": "al_ahli_merowe",
+    "name": "Al Ahli Merowe",
+    "stadium": "Merowe Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/big/70999.png?lm=1635880167",
+    "kits": ["green_white"]
+  },
+  {
+    "id": "mirghani_kassala",
+    "name": "Mirghani Kassala",
+    "stadium": "Kassala Stadium",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pdez701736443352.png/medium",
+    "kits": ["white_blue"]
+  },
+  {
+    "id": "hilal_al_sahil",
+    "name": "Hilal Al Sahil",
+    "stadium": "Port Sudan Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/1/14/Hilal_Alsahil_SC.png",
+    "kits": ["blue_yellow"]
+  },
+  {
+    "id": "al_shorta",
+    "name": "Al Shorta",
+    "stadium": "Police Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/head/60078.png?lm=1696965206",
+    "kits": ["green_white"]
+  },
+  {
+    "id": "al_ahly_shendi",
+    "name": "Al Ahly Shendi",
+    "stadium": "Shendi Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/8/87/Al-Ahly_Shendi_%28logo%29.jpg",
+    "kits": ["red_white"]
+  },
+  {
+    "id": "tuti_club",
+    "name": "Tuti Club",
+    "stadium": "Tuti Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/head/96072.png?lm=1675289795",
+    "kits": ["blue_black"]
+  },
+  {
+    "id": "al_ahli_khartoum",
+    "name": "Al Ahli Khartoum",
+    "stadium": "Khartoum Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/big/35918.png?lm=1675456769",
+    "kits": ["white_black"]
+  },
+  {
+    "id": "rabita_kosti",
+    "name": "Rabita Kosti",
+    "stadium": "Kosti Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/big/48184.png?lm=1623505179",
+    "kits": ["red_black"]
+  },
+  {
+    "id": "kober_khartoum",
+    "name": "Kober Khartoum",
+    "stadium": "Khartoum Stadium",
+    "badge": "https://tmssl.akamaized.net//images/wappen/big/71001.png?lm=1675289774",
+    "kits": ["white_blue"]
+  },
+  {
+    "id": "al_ahli_madani",
+    "name": "Al Ahli Madani",
+    "stadium": "Madani Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/0/0b/Al_Ahli_Wad_Madani_Logo.gif",
+    "kits": ["green_white"]
+  },
+  {
+    "id": "falah_atbara",
+    "name": "Falah Atbara",
+    "stadium": "Falah Stadium",
+    "badge": "https://upload.wikimedia.org/wikipedia/en/6/65/Al-Falah_SC.png",
+    "kits": ["orange_white"]
+  }
+]
