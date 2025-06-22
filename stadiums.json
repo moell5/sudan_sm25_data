@@ -1,0 +1,128 @@
+[
+  {
+    "stadium_id": "alhilal_stadium",
+    "name": "Al Hilal Stadium",
+    "capacity": 25000,
+    "city": "Omdurman",
+    "team_id": "alhilal"
+  },
+  {
+    "stadium_id": "almerrikh_stadium",
+    "name": "Al Merrikh Stadium",
+    "capacity": 43000,
+    "city": "Omdurman",
+    "team_id": "almerrikh"
+  },
+  {
+    "stadium_id": "hay_al_wadi_stadium",
+    "name": "Hay Al Wadi Stadium",
+    "capacity": 12000,
+    "city": "Khartoum",
+    "team_id": "hay_al_wadi"
+  },
+  {
+    "stadium_id": "hay_al_arab_stadium",
+    "name": "Hay Al Arab Stadium",
+    "capacity": 15000,
+    "city": "Port Sudan",
+    "team_id": "hay_al_arab"
+  },
+  {
+    "stadium_id": "haidoub_al_nahoud_stadium",
+    "name": "Haidoub Al Nahoud Stadium",
+    "capacity": 8000,
+    "city": "Khartoum",
+    "team_id": "haidoub_al_nahoud"
+  },
+  {
+    "stadium_id": "el_hilal_obeid_stadium",
+    "name": "El Hilal Obeid Stadium",
+    "capacity": 20000,
+    "city": "El Obeid",
+    "team_id": "el_hilal_obeid"
+  },
+  {
+    "stadium_id": "alamal_atbara_stadium",
+    "name": "Alamal Atbara Stadium",
+    "capacity": 12000,
+    "city": "Atbara",
+    "team_id": "alamal_atbara"
+  },
+  {
+    "stadium_id": "al_ahli_merowe_stadium",
+    "name": "Al Ahli Merowe Stadium",
+    "capacity": 10000,
+    "city": "Merowe",
+    "team_id": "al_ahli_merowe"
+  },
+  {
+    "stadium_id": "mirghani_kassala_stadium",
+    "name": "Mirghani Kassala Stadium",
+    "capacity": 9000,
+    "city": "Kassala",
+    "team_id": "mirghani_kassala"
+  },
+  {
+    "stadium_id": "hilal_al_sahil_stadium",
+    "name": "Hilal Al Sahil Stadium",
+    "capacity": 7000,
+    "city": "Port Sudan",
+    "team_id": "hilal_al_sahil"
+  },
+  {
+    "stadium_id": "al_shorta_stadium",
+    "name": "Al Shorta Stadium",
+    "capacity": 10000,
+    "city": "Khartoum",
+    "team_id": "al_shorta"
+  },
+  {
+    "stadium_id": "al_ahly_shendi_stadium",
+    "name": "Al Ahly Shendi Stadium",
+    "capacity": 15000,
+    "city": "Shendi",
+    "team_id": "al_ahly_shendi"
+  },
+  {
+    "stadium_id": "tuti_club_stadium",
+    "name": "Tuti Club Stadium",
+    "capacity": 7000,
+    "city": "Khartoum",
+    "team_id": "tuti_club"
+  },
+  {
+    "stadium_id": "al_ahli_khartoum_stadium",
+    "name": "Al Ahli Khartoum Stadium",
+    "capacity": 12000,
+    "city": "Khartoum",
+    "team_id": "al_ahli_khartoum"
+  },
+  {
+    "stadium_id": "rabita_kosti_stadium",
+    "name": "Rabita Kosti Stadium",
+    "capacity": 7000,
+    "city": "Kosti",
+    "team_id": "rabita_kosti"
+  },
+  {
+    "stadium_id": "kober_khartoum_stadium",
+    "name": "Kober Khartoum Stadium",
+    "capacity": 6000,
+    "city": "Khartoum",
+    "team_id": "kober_khartoum"
+  },
+  {
+    "stadium_id": "al_ahli_madani_stadium",
+    "name": "Al Ahli Madani Stadium",
+    "capacity": 11000,
+    "city": "Madani",
+    "team_id": "al_ahli_madani"
+  },
+  {
+    "stadium_id": "falah_atbara_stadium",
+    "name": "Falah Atbara Stadium",
+    "capacity": 8000,
+    "city": "Atbara",
+    "team_id": "falah_atbara"
+  }
+]
