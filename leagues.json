@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sudan_premier_league",
+    "name": "Sudan Premier League",
+    "nation": "Sudan",
+    "tier": 1,
+    "teams": [
+      "al_hilal_omdurman",
+      "al_merrikh",
+      "hay_al_wadi",
+      "hay_al_arab",
+      "haidoub_al_nahoud",
+      "el_hilal_obeid",
+      "alamal_atbara",
+      "al_ahli_merowe",
+      "mirghani_kassala",
+      "hilal_al_sahil",
+      "al_shorta",
+      "al_ahly_shendi",
+      "tuti_club",
+      "al_ahli_khartoum",
+      "rabita_kosti",
+      "kober_khartoum",
+      "al_ahli_madani",
+      "falah_atbara"
+    ],
+    "relegation": [],
+    "promotion": [],
+    "confederationQualification": []
+  }
+]
